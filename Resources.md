@@ -6,3 +6,4 @@
 5. [How I got a second degree and earned 5 developer certifications in just one year, while working and raising two kids](https://goo.gl/qxwpnE)
 6. [Best way to learn to program in 2017](https://goo.gl/IMWmKe)
 7. [Kallaway/100-days-of-code](https://goo.gl/kM21TS)
+8. [100 Days of Code](https://goo.gl/jLdbbs)
