@@ -15,3 +15,13 @@
 **Thoughts:** 
 
 **Link to Work:** [WolletDotMe](https://goo.gl/kaCjOH)
+
+### Day 2: Mar 31. Fri
+
+**Today's Progress**: Add firebase to project and code some login logic (have bug)
+
+**Thoughts:** fitst time of using Firebase 
+
+**Link to Work:** [WolletDotMe](https://github.com/Tedev555/WolletDotMe/commit/06d1f38ac5f42617bbf3bcf8fa0d3aeacab1937e)
+
+
