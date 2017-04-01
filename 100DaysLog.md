@@ -24,4 +24,12 @@
 
 **Link to Work:** [WolletDotMe](https://github.com/Tedev555/WolletDotMe/commit/06d1f38ac5f42617bbf3bcf8fa0d3aeacab1937e)
 
+### Day 3: Mar 1. Sat
+
+**Today's Progress**: Debug sign in and add sign up activity
+
+**Thoughts:** 
+
+**Link to Work:** [WolletDotMe](https://goo.gl/XNsJ1N)
+
 
