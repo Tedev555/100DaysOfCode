@@ -32,4 +32,12 @@
 
 **Link to Work:** [WolletDotMe](https://goo.gl/XNsJ1N)
 
+### Day 3: Mar 1. Sat
+
+**Today's Progress**: update code in sign up Activity
+
+**Thoughts:** 
+
+**Link to Work:** [WolletDotMe](https://goo.gl/kUUf1Z)
+
 
