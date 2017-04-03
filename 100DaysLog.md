@@ -40,4 +40,12 @@
 
 **Link to Work:** [WolletDotMe](https://goo.gl/kUUf1Z)
 
+### Day 5: Mar 3. Mon
+
+**Today's Progress**: add Login Activity, Logout button, EditText empty validate
+
+**Thoughts:** 
+
+**Link to Work:** [WolletDotMe](https://goo.gl/IJjCBs)
+
 
