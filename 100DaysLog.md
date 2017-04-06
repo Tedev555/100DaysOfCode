@@ -48,4 +48,12 @@
 
 **Link to Work:** [WolletDotMe](https://goo.gl/IJjCBs)
 
+### Day 6: Mar 6. Thu
+
+**Today's Progress**: add forgot email/password Activity
+
+**Thoughts:** 
+
+**Link to Work:** [WolletDotMe](https://goo.gl/NcsgnY)
+
 
