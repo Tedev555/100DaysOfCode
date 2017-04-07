@@ -58,7 +58,7 @@
 
 ### Day 7: Mar 7. Fri
 
-**Today's Progress**: Try to use Firebase RealtimeDatabase
+**Today's Progress**: Try to use Firebase RealtimeDatabase and Add progressDialog to Signin and Signup
 
 **Link to Work:** [WolletDotMe](https://goo.gl/TY6cew)
 
