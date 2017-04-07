@@ -56,10 +56,9 @@
 
 **Link to Work:** [WolletDotMe](https://goo.gl/NcsgnY)
 
-### Day 6: Mar 6. Thu
+### Day 7: Mar 7. Fri
 
 **Today's Progress**: Try to use Firebase RealtimeDatabase
-**Thoughts:** 
 
 **Link to Work:** [WolletDotMe](https://goo.gl/TY6cew)
 
