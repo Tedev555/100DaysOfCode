@@ -62,4 +62,9 @@
 
 **Link to Work:** [WolletDotMe](https://goo.gl/TY6cew)
 
+### Day 8: Mar 8. Fri
+
+**Today's Progress**: add user information 
+
+**Link to Work:** [WolletDotMe](https://goo.gl/MigFKO)
 
