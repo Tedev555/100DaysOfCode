@@ -62,9 +62,15 @@
 
 **Link to Work:** [WolletDotMe](https://goo.gl/TY6cew)
 
-### Day 8: Mar 8. Fri
+### Day 8: Mar 8. Sat
 
 **Today's Progress**: add user information 
 
 **Link to Work:** [WolletDotMe](https://goo.gl/MigFKO)
+
+### Day 9: Mar 10. Mon
+
+**Today's Progress**: debug user sign up and add user's information to server 
+
+**Link to Work:** [WolletDotMe](https://goo.gl/EAEsU5)
 
