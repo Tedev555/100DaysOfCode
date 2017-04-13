@@ -24,7 +24,7 @@
 
 **Link to Work:** [WolletDotMe](https://github.com/Tedev555/WolletDotMe/commit/06d1f38ac5f42617bbf3bcf8fa0d3aeacab1937e)
 
-### Day 3: Mar 1. Sat
+### Day 3: Apr 1. Sat
 
 **Today's Progress**: Debug sign in and add sign up activity
 
@@ -32,7 +32,7 @@
 
 **Link to Work:** [WolletDotMe](https://goo.gl/XNsJ1N)
 
-### Day 4: Mar 2. Sun
+### Day 4: Apr 2. Sun
 
 **Today's Progress**: update code in sign up Activity
 
@@ -40,7 +40,7 @@
 
 **Link to Work:** [WolletDotMe](https://goo.gl/kUUf1Z)
 
-### Day 5: Mar 3. Mon
+### Day 5: Apr 3. Mon
 
 **Today's Progress**: add Login Activity, Logout button, EditText empty validate
 
@@ -48,7 +48,7 @@
 
 **Link to Work:** [WolletDotMe](https://goo.gl/IJjCBs)
 
-### Day 6: Mar 6. Thu
+### Day 6: Apr 6. Thu
 
 **Today's Progress**: add forgot email/password Activity
 
@@ -56,21 +56,27 @@
 
 **Link to Work:** [WolletDotMe](https://goo.gl/NcsgnY)
 
-### Day 7: Mar 7. Fri
+### Day 7: Apr 7. Fri
 
 **Today's Progress**: Try to use Firebase RealtimeDatabase and Add progressDialog to Signin and Signup
 
 **Link to Work:** [WolletDotMe](https://goo.gl/TY6cew)
 
-### Day 8: Mar 8. Sat
+### Day 8: Apr 8. Sat
 
 **Today's Progress**: add user information 
 
 **Link to Work:** [WolletDotMe](https://goo.gl/MigFKO)
 
-### Day 9: Mar 10. Mon
+### Day 9: Apr 10. Mon
 
 **Today's Progress**: debug user sign up and add user's information to server 
 
 **Link to Work:** [WolletDotMe](https://goo.gl/EAEsU5)
+
+### Day 10: Apr 13. Thu
+
+**Today's Progress**: Show user profile (still have bugs)
+
+**Link to Work:** [WolletDotMe](https://goo.gl/P1IqjF)
 
