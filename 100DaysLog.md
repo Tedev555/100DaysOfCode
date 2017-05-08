@@ -92,3 +92,10 @@
 
 **Link to Work:** [WolletDotMe](https://goo.gl/a7IH32)
 
+
+### Day 13: May 8. Mon
+
+**Today's Progress**: Add income and outcome statement fragment
+
+**Link to Work:** [WolletDotMe]()
+
